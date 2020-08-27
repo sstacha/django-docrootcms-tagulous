@@ -4,6 +4,7 @@ Fork of tagulous with patch for Django3
 NOTE: this should not be used unless you are installing the docrootcms which requires django2.2 or above.  I am using this fork until the official tagulous branch is updated to remove legacy code and support django3.
 
 Official Repo: http://radiac.net/projects/django-tagulous/
+
 Source: https://github.com/radiac/django-tagulous
 
 
