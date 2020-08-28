@@ -1,5 +1,4 @@
 include LICENSE
-recursive-include docrootcms/static *
-recursive-include docrootcms/templates *
-recursive-include docrootcms/docroot *
-recursive-include docrootcms/container_scripts *
+recursive-include tagulous/static *
+recursive-include tagulous/templates *
+recursive-include tagulous/templatetags *

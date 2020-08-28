@@ -6,7 +6,7 @@ delete any dist or eggs
 python setup.py sdist
 
 To Test:
-pip install --upgrade ~/dev/projects/django-docrootcms-tagulous/dist/django-docrootcms-tagulous-0.03.tar.gz
+pip install --upgrade ~/dev/projects/django-docrootcms-tagulous/dist/django-docrootcms-tagulous-0.10.tar.gz
 
 To Deploy:
 pip install --upgrade twine
