@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(name='django-docrootcms-tagulous',
-      version='0.10',
+      version='0.12',
       description='Fork of the django-tagulous patched to work with Django 3',
       long_description=long_description,
       long_description_content_type="text/markdown",
